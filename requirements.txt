@@ -23,7 +23,7 @@ cycler==0.10.0
 Cython==0.29.7
 dask==1.2.2
 decorator==4.4.0
-Django==1.11.22
+Django==2.2.24
 dnspython==1.15.0
 docker==2.5.1
 docker-compose==1.17.1
