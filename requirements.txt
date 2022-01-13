@@ -84,7 +84,7 @@ patsy==0.4.1+dev
 pbr==3.1.1
 pexpect==4.2.1
 pickleshare==0.7.4
-Pillow==5.1.0
+Pillow==9.0.0
 pluggy==0.6.0
 prompt-toolkit==1.0.15
 protobuf==3.7.1
